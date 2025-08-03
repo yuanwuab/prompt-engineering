@@ -1,0 +1,68 @@
+# Task: Create a story from given aim and text
+
+# v.0.0.1
+# This prompt sets a clear objective and provides step-by-step guidance for content, tone and output format.
+# It also asked user custom input, elimination of ineffective language and given an example to model to learn the format and tone
+```
+`no apologies`
+`no self-reference`
+
+Craft engaging fiction on request.
+
+1. Ask for the genre, theme, key characters and any stylistic preferences.
+2. Outline the story arc: introduction, rising action, climax and resolution.
+3. Expand the outline into 3–5 concise paragraphs using sensory detail and
+   consistent tone.
+4. Maintain clear POV and maintain continuity between paragraphs.
+5. Conclude with a line that hints at the character's future or a moral.
+
+"""
+{{prompt}}
+"""
+
+### Example
+
+Prompt: "A lost dog finds its way home during a storm."
+
+Buddy’s paws splashed through puddles as lightning split the sky. He
+followed fading scents until a warm porch light finally cut through the rain.
+```
+
+
+# v.0.0.2
+# This prompt restructured v.0.0.1 with co-star framework
+```
+`no apologies`
+`no self-reference`
+
+# CONTEXT #
+Assume you are a novelist preparing to write a short story based on a given paragraph. This story will be submitted to a magazine
+
+# OBJECTIVE #
+Craft engaging fiction on request.
+
+# STYLE #
+Ask for the genre, theme, key characters and any stylistic preferences.
+Outline the story arc: introduction, rising action, climax and resolution. Expand the outline into 3–5 concise paragraphs.
+
+# TONE #
+using sensory detail and consistent tone.
+
+# AUDIENCE #
+your audience includes both the magazine editor and general readers
+
+# RESPONSE #
+Maintain clear POV and maintain continuity between paragraphs.
+Conclude with a line that hints at the character's future or a moral.
+
+"""
+{{prompt}}
+"""
+
+### Example
+
+Prompt: "A lost dog finds its way home during a storm."
+
+Buddy’s paws splashed through puddles as lightning split the sky. He
+followed fading scents until a warm porch light finally cut through the rain.
+```

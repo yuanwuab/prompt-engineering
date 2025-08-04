@@ -128,5 +128,4 @@ I have identified some key takeaways from [Company Name]’s annual report:
 
 In summary, [Company Name] delivered [performance summary]. While facing [challenges], the balance sheet looks [assessment]. Apart from [issues], the underlying business momentum appears [assessment]. Barring [risks], [Company Name] seems well-positioned to continue gaining share in the [market/industry].
 
-Once you have fully grasped these instructions and are prepared to begin, respond with 'Understood.' then output the analysis if the user did already provide the 10-K. If the user has not yet included the 10-K, respond with 'Understood. Please provide the 10-K.'
 ```

@@ -1,0 +1,121 @@
+#v.0.0.1
+```
+I have identified key takeaways from Moderna, Inc.’s 2024 Annual Report (Form 10‑K, filed February 21, 2025) ([SEC][1]):
+
+---
+
+**Financial Performance**
+
+* **Net Product Sales**: \$3.109 bn in 2024 vs. \~\$6.848 bn in 2023 — a \~53% year-over-year decline, driven by sharply reduced COVID‑19 vaccine demand ([TradingView][2], [mymarketwizard.com][3]).
+
+* **Total Revenue**: \$3.236 bn in 2024 (net product sales + minimal other revenue) ([TradingView][2]).
+
+* **Gross Margin**: Improved to \~54.7%, up from \~31.5% in 2023, reflecting lower cost of sales base and efficiencies ([mymarketwizard.com][3]).
+
+* **Operating Loss**: \~\$3.945 bn, a 7% improvement from 2023, as operating expenses fell \~35% to \$7.181 bn ([TradingView][2]).
+
+* **Net Loss**: \~\$3.561 bn, narrowed 24% from \~\$4.714 bn in prior year; basic and diluted EPS of –\$9.28 vs –\$12.33 last year ([mymarketwizard.com][3]).
+
+* **Cash & Investments**: \$9.5 bn ending balance vs \$13.3 bn at year‑end 2023, a 28% decline; cash used in operating activities was \~\$3.0 bn; investing inflows \~\$1.9 bn; financing activities generated \~\$56 m ([mymarketwizard.com][3]).
+
+---
+
+**Business Highlights & Pipeline**
+
+* **Product Portfolio**: Transitioned from single‑product to multi‑product firm with approval and launch of mRESVIA (RSV vaccine for older adults) in mid‑2024 ([SEC][1]).
+* **Pipeline Progress**: Four positive Phase 3 data readouts in respiratory portfolio — next‑gen COVID, RSV in adults 18‑59, flu+COVID combo, seasonal flu vaccine. Oncology program mRNA‑4157/INT (with Merck) completed adjuvant melanoma Phase 3 enrollment. Rare disease programs (PA and MMA) preparing registrational trials. Norovirus Phase 3 initiated ([SEC][1]).
+* **Strategic Partnerships**: Up to \$750 m from Blackstone Life Sciences for flu program; up to \$176 m + \$590 m awarded by BARDA via RRPV to support pandemic/pre‑pandemic influenza vaccine development ([TradingView][2]).
+* **Manufacturing Expansion**: Facilities under development in Australia, Canada, UK, and a new biomanufacturing site in Massachusetts for the INT program, coming online in 2025 ([TradingView][2]).
+
+---
+
+**Key Market Trends & Risks**
+
+* **Demand Decline**: COVID‑19 vaccine sales fell dramatically as the disease shifted to endemic phase. RSV vaccine uptake lower than expected due to limited public health recommendation and third‑to‑market positioning ([TradingView][2], [ウィキペディア][4]).
+* **Competitive Pressure**: RSV and upcoming flu/COVID combination vaccines face stiff competition from Pfizer, Sanofi, and others. Exclusion from EU markets in influenza due to competitor contracts may hinder market share expansion ([TradingView][2]).
+* **Regulatory Uncertainty**: Need for updated COVID formulations (e.g. targeting new variants) introduces timing and efficacy risk. Only two products approved so far; many candidates remain in clinical phases ([SEC][1], [TradingView][2]).
+* **Manufacturing & Supply Chain**: Complexity of mRNA supply chain and reliance on some single‑source suppliers pose execution risk in scaling new products ([TradingView][2]).
+* **IP Litigation**: GSK initiated a patent infringement suit in October 2024 over Moderna’s COVID and RSV vaccine lipid nanoparticle technology ([ウィキペディア][4]).
+
+---
+
+**Outlook & Forecast for Next Quarter**
+
+* **Revenue Outlook**: Continued decline in COVID vaccine sales likely; RSV uptake growth modest initially. Expect net product sales in Q2 2025 to remain materially below 2023 levels unless broader RSV adoption accelerates.
+* **Operating Expenses**: Expect continued cost discipline, especially in R\&D prioritization across core programs.
+* **Profitability**: Continued net loss likely, though further reduction expected if pipeline advances and expenses remain focused.
+* **Risks to Monitor**: RSV reimbursement/recommendation momentum; regulatory green‑lighting of next‑gen vaccines; manufacturing scale‑up execution; patent litigation outcomes.
+* **Liquidity**: \~\$9.5 bn in cash/investments provides runway but burn of \~\$3 bn/year means liquidity limited after \~12–18 months if operating loss persists.
+
+---
+
+**Memo Summary**
+
+* **Moderna’s top‑line halved in 2024**, as COVID vaccine revenue plunged. While gross margins improved, operating and net losses remain substantial (\~\$3.6 bn).
+* **RSV launch marks first real diversification**, but uptake and market share remain muted so far.
+* **Pipeline is progressing aggressively**, particularly in respiratory, oncology, rare disease — data readouts and approvals over next 1–3 years crucial.
+* **Strategic funding and facility build‑out underway**, positioning Moderna to scale new indications.
+* **Risks remain material**: market uncertainty, competitive threats, regulatory timing, manufacturing execution, IP litigation, cash burn.
+
+Team should track **RSV adoption trends**, **clinical readouts coming this year**, **BARDA/Blackstone funding milestones**, and **GSK lawsuit developments**. Operating and revenue risk remains elevated in the near term, pending successful commercialization of new products.
+
+Regards ntej
+
+[1]: https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm?utm_source=chatgpt.com "mrna-20241231 - SEC.gov"
+[2]: https://www.tradingview.com/news/tradingview%3A2cdce1fee1d78%3A0-moderna-inc-sec-10-k-report/?utm_source=chatgpt.com "Moderna, Inc. SEC 10-K Report — TradingView News"
+[3]: https://mymarketwizard.com/filing/moderna-inc-10-k-analysis-summary-2-21-2025/?utm_source=chatgpt.com "Moderna, Inc. 10-K Analysis & Summary – 2/21/2025"
+[4]: https://en.wikipedia.org/wiki/Moderna?utm_source=chatgpt.com "Moderna"
+
+```
+
+
+# v.0.0.2
+# If you already have a well structured output fromat like v.0.0.1, better no using any other framework.
+# It will cut down the weight of your output format, model will try to make some small change to output
+```
+MEMO: Moderna, Inc. 2024 10-K Summary and Outlook
+
+Financial Performance:
+
+Revenue: $3.2 billion, a decrease from 2023, primarily due to reduced COVID-19 vaccine sales.
+
+Net Loss: $3.6 billion; GAAP EPS of $(9.28), reflecting restructuring and lower demand.
+
+Cash Position: $9.5 billion in cash, cash equivalents, and investments at year-end.
+
+Cost Reduction: Achieved a 27% reduction in operating expenses compared to 2023.
+
+Business Highlights:
+
+Regulatory Filings: Submitted three Biologics License Applications (BLAs) for next-gen COVID-19 vaccine (mRNA-1283), RSV vaccine (mRNA-1345), and flu/COVID combination vaccine.
+
+Market Expansion: Focused on high-risk adult populations for RSV vaccine.
+
+Pipeline Progress: Advanced mRNA-based therapies, including individualized neoantigen cancer vaccines.
+
+Operational Metrics:
+
+R&D Investment: Continued significant investment in mRNA platform and oncology pipeline.
+
+Manufacturing: Resized manufacturing capacity to align with post-pandemic demand.
+
+Outlook:
+
+2025 Revenue Forecast: $1.5 to $2.5 billion, with expectations of returning to organic growth in 2026.
+
+Regulatory Milestones: Anticipated PDUFA dates in May and June 2025 for mRNA-1283 and mRNA-1345, respectively.
+
+Strategic Focus: Emphasis on cost discipline and pipeline diversification to mitigate revenue volatility.
+
+Risks:
+
+Revenue Volatility: Dependence on seasonal vaccine sales poses revenue fluctuations.
+
+Regulatory Approval: Pending approvals for new vaccines critical to future growth.
+
+Market Competition: Increasing competition in mRNA vaccine and oncology spaces.
+
+Conclusion:
+
+Moderna is transitioning from pandemic-era sales to a diversified mRNA platform. While facing near-term revenue pressures, strategic investments in pipeline development and cost management position the company for sustainable growth. Monitoring regulatory outcomes and market dynamics will be crucial in assessing future performance.
+```

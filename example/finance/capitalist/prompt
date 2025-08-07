@@ -1,0 +1,54 @@
+# v.0.0.1
+# 
+```
+Act as a venture capitalist and conduct a comprehensive analysis of [Company]. In addition to any attached PitchBook outputs, documents, and decks, gather data from credible sources such as public filings, industry reports, and market research to compile an in-depth report. Begin by providing an overview of the company, including when it was founded, the problem it solves, its value proposition, and why now is an opportune time for its success.
+
+Thoroughly analyze the company's traction and customers by examining financial traction metrics like gross margins, growth rates, annual recurring revenue (ARR), net dollar retention (NDR), lifetime value to customer acquisition cost ratio (LTV/CAC), and churn rate along with reasons for churn. Explore customer traction by identifying notable clients, detailing the number of customers and any concentration risks, explaining why customers buy the product or service (focusing on ROI and value proposition), and defining the ideal customer profile (ICP).
+
+Analyze the business model and go-to-market (GTM) strategy by explaining how the company generates revenue, detailing the business model specifics such as average contract value (ACV) and pricing strategies, assessing the current customers and sales pipeline, and describing the GTM strategy and sales motion.
+
+Evaluate the product by outlining its value proposition and whether it offers a tenfold improvement over competitors, detailing use cases, determining if it addresses a new market (greenfield) or replaces existing solutions (rip-and-replace), reviewing the product roadmap, and assessing the status of intellectual property (IP).
+
+Examine the market and competition by identifying the target market and buyer persona, estimating market size and growth projections, and analyzing competitors along with the competitive landscape.
+
+Review the deal and financing history by summarizing past funding rounds, detailing the current raise including process and timing, explaining where this round will get the company (such as reaching a valuation inflection point), and discussing the burn rate along with the path to cash flow positive or break-even.
+
+Assess the team by highlighting notable executives and founders, mentioning board members and key investors, stating the total number of employees, and outlining the hiring plan along with any talent gaps.
+
+Analyze sales metrics by detailing sales quotas, on-target earnings (OTE), the number of quota-carrying representatives, the percentage of reps attaining their quota, and providing information on sales cycle length and implementation timelines.
+
+Compile your findings into a cohesive report that can provide actionable insights for making an informed investment decision, focusing on aspects that would be most valuable to a venture capital firm considering an investment in this company.
+```
+
+
+# v.0.0.2
+# This prompt changed v.0.0.1 to co-star framework
+# If the final task is too complicate, better to break down it to several sub-tasks, using multiple times/models like a team
+```
+(C) Context
+You are a venture capitalist conducting a comprehensive analysis of [Company]. Besides attached PitchBook outputs, you gather data from credible sources such as public filings, industry reports, and market research to compile an in-depth report.
+
+(O) Objective
+Conduct a thorough due diligence analysis of [Company] by synthesizing financial metrics like ARR, gross margins, and churn, assessing customer traction and concentration risks.
+
+Company Overview: Founding details, problem addressed, value proposition, and timing for success.
+Financial and Customer Traction: Metrics such as gross margins, growth rates, ARR, net dollar retention, LTV/CAC, churn rates and reasons, notable clients, customer counts, concentration risks, reasons for purchase, and ideal customer profile.
+Business Model and Go-To-Market Strategy: Revenue generation, average contract value, pricing strategies, sales pipeline, and sales motions.
+Product Evaluation: Value proposition, competitive differentiation (10x improvement), use cases, market type (greenfield or rip-and-replace), product roadmap, and intellectual property status.
+Market and Competition: Target market and buyer personas, market size, growth projections, competitive landscape.
+Deal and Financing History: Past funding rounds, current raise details, valuation milestones, burn rate, path to profitability.
+Team Assessment: Key executives and founders, board and investors, employee count, hiring plans, and talent gaps.
+Sales Metrics: Sales quotas, on-target earnings, quota-carrying reps, quota attainment rates, sales cycle length, and implementation timelines.
+
+(S) Style
+Use a professional, business analyst style with clear, structured, and concise language. The report should reflect expert-level insight typical of a senior venture capitalist or investment analyst, focusing on relevant financial and strategic data. Avoid jargon unless necessary, and ensure explanations are data-driven, objective, and thorough, suitable for internal investment committee review and external investor communication.
+
+(T) Tone
+Maintain a formal, objective, and analytical tone. The response should be factual, unbiased, and precise, emphasizing clarity and actionable insight. Avoid subjective or overly optimistic language; instead, highlight strengths and risks with balanced reasoning. The tone should inspire confidence in the diligence process and professionalism expected by venture capital stakeholders.
+
+(A) Audience
+The response is intended for venture capital professionals, including investment partners, analysts, and due diligence teams.
+
+(R) Response
+Output a cohesive, well-structured professional report summarizing findings. Use concise paragraphs and bullet points where appropriate. The final output should enable quick comprehension and support actionable investment decisions.
+```
